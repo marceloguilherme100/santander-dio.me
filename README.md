@@ -1,6 +1,6 @@
 # Projeto Java | Backend | Santander e Dio
 
-Repositório para a criação do projeto backend do grupo Santander e [Digital Innovation One] ☕
+Repositório para a criação do projeto backend do grupo Santander e [Digital Innovation One] 
 (https://www.dio.me)
 
 ## 💻 Ferramentas
