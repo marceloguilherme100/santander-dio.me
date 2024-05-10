@@ -1,21 +1,18 @@
-import java.sql.Date;
 
 public class Operadores {
     public static void main(String[] args) {
-        String nome = "Gui";
-        int idade = 22;
-        double peso = 79.8;
-        char sexo = 'M';
-        boolean doadorOrgao = false;
-        //Date dataNascimento = new Date();
+    
+              
+        boolean condicao1=true;
 
-        String nomeCompleto = "LIGUAGEM " + "JAVA";
-
-        System.out.println(nomeCompleto);
-
-        /* System.out.println(idade);
-        System.out.println(peso);
-        System.out.println(sexo);
-        System.out.println(doadorOrgao); */
+        boolean condicao2=false;
+     
+     if (condicao1 && condicao2){
+        System.out.println("as duas condições são verdadeiras");
+     }
+     if (condicao1 || condicao2){
+        System.out.println("Uma das condições é verdadeira");
+     }
+     
     }
 }
